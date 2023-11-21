@@ -32,7 +32,7 @@ patriciaantunes@fcna.up.pt
 Provide a more in-depth paragraph about your project and its purpose, based on the content of your paper.
 
 ## License
-All source code and software in this repository are made available under the terms of the MIT license.
+All source code and software in this repository are made available under the terms of the GNU GENERAL PUBLIC LICENSE.
 
 ## Funding
 This work was supported by the Applied Molecular Biosciences Unit - UCIBIO which is financed by national funds from FCT - Fundação para a Ciência e a Tecnologia (UIDP/04378/2020 and UIDB/04378/2020), by the Associate Laboratory Institute for Health and Bioeconomy-i4HB (LA/P/0140/2020), by the AgriFood XXI I&D&I project (NORTE-01-0145-FEDER-000041) co-financed by the European Regional Development Fund (ERDF) through NORTE 2020 (Programa Operacional Regional do Norte 2014/2020) and by the University of Porto and SOJA DE PORTUGAL (Grant Nº IJUP-Empresas-2019-17). Joana Mourão and Ângela Novais were supported by national funds through FCT/MCTES in the context of the Scientific Employment Stimulus (2021.03416.CEECIND and 2021.02252.CEECIND, respectively). Marisa Ribeiro-Almeida was supported by a PhD fellowship from FCT (SFRH/BD/146405/2019). The authors are greatly indebted to all the financing sources.
